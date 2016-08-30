@@ -1,3 +1,20 @@
+*.csproj
+*.csproj.*
+*.vcproj
+*.vcproj.*
+*.vcxproj.*
+Debug/
+Release/
+ipch/
+*.ipch
+*.suo
+*.sdf
+*.opensdf
+*.ncb
+*.VC.db
+
+
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +44,4 @@
 *.exe
 *.out
 *.app
+
